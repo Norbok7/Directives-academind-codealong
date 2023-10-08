@@ -10,7 +10,6 @@ import { BetterHighlightDirective } from './better-highlight/better-highlight.di
   declarations: [
     AppComponent,
     BasicHighlightDierective,
-    BetterHighlightComponent,
     BetterHighlightDirective
   ],
   imports: [
